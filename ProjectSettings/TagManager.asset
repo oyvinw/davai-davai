@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Squaddie
+  - Enviroment
+  - Enemy
+  - Projectile
+  - WinScreen
+  - LoseScreen
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Wall
+  - GoodGuyLayer
+  - Mask
+  - Behind Mask
+  - ViewObjects
+  - Black
+  - Bullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2823067695
+    locked: 0
+  - name: Enviroment
+    uniqueID: 4099274031
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ghosts
+    uniqueID: 2445349577
+    locked: 0
+  - name: Agents
+    uniqueID: 2056976781
+    locked: 0
+  - name: AgentCondition
+    uniqueID: 927872215
+    locked: 0
+  - name: Top
+    uniqueID: 2631814759
+    locked: 0
+  - name: UI
+    uniqueID: 1106409317
+    locked: 0
